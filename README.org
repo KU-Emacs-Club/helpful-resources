@@ -1,0 +1,7 @@
+* [[https://www.youtube.com/watch?v=tc4ROCJYbm0][AT&T Archives - The UNIX Operating System]]
+It is likely though admittedly not guaranteed that you use some literal or
+spiritual descendant of UNIX every day, either through Unix-likes like Linux,
+Unix-but-can't-bother-registering systems like open-source BSDs, or registered
+UNIXes like macOS. This mixture of demonstration and explanation is sure to
+leave any viewer with a greater understanding of the method of and intent behind
+the command line interfaces we interact with.
